@@ -13,10 +13,9 @@ This repository contains code and analysis for evaluating the impact of glaucoma
 Install required Python packages:
 ```bash
 pip install numpy pandas matplotlib seaborn lifelines
-```bash
-
+```
 ## Usage
 ### Clone the repository
-
+```bash
 git clone https://github.com/WeiChunLin/Impact-of-glaucoma-medications-for-trab-outcome.git
-
+```
