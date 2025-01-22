@@ -5,7 +5,7 @@ This repository contains code and analysis for evaluating the impact of glaucoma
 ## Contents
 - **`Survival_Analysis_Eye_Meds_Jan2025.ipynb`**: Jupyter Notebook for:
   - Data preprocessing and visualization.
-  - Kaplan-Meier survival curves and Cox proportional hazards analysis.
+  - Cox proportional hazards analysis.
   - Assessment of medication effects on surgical outcomes.
 
 ## Getting Started
